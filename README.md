@@ -12,6 +12,8 @@ for each channel. Also you see the pubkey and alias of channel peer. [chanbalanc
 
 -[c-lightning](https://github.com/ElementsProject/lightning)
 
+-[Rene Pckhardt plugin collection](https://github.com/renepickhardt/c-lightning-plugin-collection)
+
 -[conscott plugins](https://github.com/conscott/c-lightning-plugins)
 
 -[Community curated plugins for c-lightning](https://github.com/lightningd/plugins)
