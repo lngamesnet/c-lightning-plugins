@@ -6,7 +6,7 @@ Some basic and useful plugins for c-lightning.
 ### chanbalances:  
 
 Show nicer overview of the channel balances of your node. Whith chanbalances you see the outbound and inbound capacity 
-for each channel. Also you see the pubkey and alias of channel peer.
+for each channel. Also you see the pubkey and alias of channel peer. [chanbalances.py](https://github.com/lngamesnet/c-lightning-plugins/blob/master/chanbalances.py)
 
 ## Resources
 
