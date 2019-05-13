@@ -10,7 +10,7 @@ for each channel. Also you see the pubkey and alias of channel peer. [chanbalanc
 
 ### telegrambot:  
 
-Receive warnings and monitor your c-lightning node via Telegram Bot. In this simple example you can Receive warnings when there are variations in the funds of your node, and a periodic report about your funds. It should be easy to add more warnings and monitoring data: channels, invoices, payments, etc.  [telegrambot.py](https://github.com/lngamesnet/c-lightning-plugins/blob/master/telegrambot.py)
+Receive warnings and monitor your c-lightning node via Telegram Bot. Whith this simple example you can receive warnings when there are variations in the funds of your node, and a periodic report about your funds. It should be easy to add more warnings and monitoring data: channels, invoices, payments, etc.  [telegrambot.py](https://github.com/lngamesnet/c-lightning-plugins/blob/master/telegrambot.py)
 
 ## Resources
 
