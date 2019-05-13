@@ -6,7 +6,7 @@ check_interval: specifies the interval in seconds that funds on node are checked
 check_resume_num: #send status every check_resume_num (e.g: if check_interval is 60 sec, and chec_resum_num=60, the plugin will send a resum every hour)
 
 Activate the plugin with: 
-`lightningd --plugin=PATH/TO/LIGHTNING/contrib/plugins/funds/telegrambot.py`
+`lightningd --plugin=PATH/TO/LIGHTNING/contrib/plugins/telegrambot.py`
 
 Or add the plugin to your plugins dir.
 
